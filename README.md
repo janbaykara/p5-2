@@ -11,13 +11,13 @@ At first time, install the dependencies with:
 npm install
 ```
 
-Then for development, type:
+Then for development, run:
 
 ```sh
 npm run dev
 ```
 
-and to build for deployment, type:
+and to build for deployment, run:
 
 ```sh
 npm run prod
