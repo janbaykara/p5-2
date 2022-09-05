@@ -1,6 +1,6 @@
 # P5.js template
 
-This template can serve as a starting point of your P5.js sketch, using webpack
+This template can serve as a starting point of your P5.js sketch, using parcel
 and npm, which makes it easy to develop and deploy your sketch.
 
 ## Usage
