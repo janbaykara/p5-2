@@ -1,6 +1,9 @@
 // https://github.com/processing/p5.js/wiki/Global-and-instance-mode
 import p5 from "p5";
 
+/**
+ * @param {p5} s
+ */
 const sketch = function (s) {
     s.setup = function () {
         s.createCanvas(s.windowWidth, s.windowHeight);
